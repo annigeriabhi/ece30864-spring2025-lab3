@@ -24,3 +24,20 @@ Identifies dependencies and ensures alignment among team members.
 Sprint Review and Retrospective
 Sprint Review: Demonstrates completed work to stakeholders and gathers feedback.
 Sprint Retrospective: Reflects on successes and areas for improvement, defining action items for the next sprint.
+
+d)
+
+Epic
+A large body of work that is broken down into smaller stories or tasks.
+Represents high-level objectives or features that span multiple sprints.
+
+Story
+A user-focused requirement that delivers value to the end user.
+
+Bug
+A defect or issue in the system that needs to be fixed.
+Reported when the software does not function as expected.
+
+Task
+A specific unit of work that needs to be completed.
+Can be technical work, research, or any non-user-facing activity.
