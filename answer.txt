@@ -4,3 +4,9 @@ Scope creep can occur due to frequent changes. It also requires strong collabora
 
 Traditional development has a clear structure, making planning easier. It works well for projects with fixed requirements.
 It’s less adaptable to changes, making adjustments difficult. Testing and feedback are often delayed, increasing late-stage risk
+
+b)
+
+The Scrum Master ensures the team follows Agile practices by facilitating Scrum events, removing blockers, and coaching team members. They protect the team from distractions and ensure transparency by tracking progress.
+
+The Product Owner defines the product vision, manages the backlog, and prioritizes tasks based on business value. They collaborate with stakeholders, gather feedback, and approve deliverables to ensure alignment with business goals.
