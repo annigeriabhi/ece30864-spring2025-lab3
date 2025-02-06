@@ -1,1 +1,6 @@
+a) 
+Agile is flexible, allowing teams to adapt to changing requirements. It also enables faster delivery with continuous feedback.
+Scope creep can occur due to frequent changes. It also requires strong collaboration, which can be challenging for some teams.
 
+Traditional development has a clear structure, making planning easier. It works well for projects with fixed requirements.
+It’s less adaptable to changes, making adjustments difficult. Testing and feedback are often delayed, increasing late-stage risk
